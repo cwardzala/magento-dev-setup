@@ -51,7 +51,7 @@ sudo apt-get -y -q install mariadb-server
 
 # Download and extract Magento
 echo "Download Magento"
-curl --silent --output /tmp/magento.gz "#MAGENTO DOWNLOAD PATH"
+curl --silent --output /tmp/magento.gz "#MAGENTO DOWNLOAD URL"
 
 echo "Create app dir"
 sudo mkdir -p $APPPATH
