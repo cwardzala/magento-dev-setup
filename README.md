@@ -54,3 +54,12 @@ $ ./setup_modules.sh #Symlink module files and folders. Every time you add a new
 
 # if commands wont run open each file and run the commands line-by-line.
 ```
+
+## Goals
+Goals of this project.
+
+- Create a local folder structure that abstracts away the complexities of the Magento folder structure.
+- Use Vagrant for local server.
+- Allow use of latest web tools like [Grunt](), [Sass](), and [Bower]().
+- Automatic provisioning of server, and installation of Magento.
+- DO NOT track Magento core files in the git repository.
