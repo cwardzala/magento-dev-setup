@@ -1,0 +1,12 @@
+.vagrant
+*.lock
+node_modules/
+.sass-cache/
+bower_components/*
+
+# Project Stuffs
+src/skin/default/css/*.css
+src/skin/default/css/*.map
+src/skin/default/bower_components/
+dist/
+files/MAGENTO_DB_BACKUP.sql

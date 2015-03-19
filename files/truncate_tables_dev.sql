@@ -1,0 +1,18 @@
+TRUNCATE `log_customer`;
+ALTER TABLE `log_customer` AUTO_INCREMENT=1;
+TRUNCATE `log_quote`;
+ALTER TABLE `log_quote` AUTO_INCREMENT=1;
+TRUNCATE `log_summary`;
+ALTER TABLE `log_summary` AUTO_INCREMENT=1;
+TRUNCATE `log_summary_type`;
+ALTER TABLE `log_summary_type` AUTO_INCREMENT=1;
+TRUNCATE `log_url`;
+ALTER TABLE `log_url` AUTO_INCREMENT=1;
+TRUNCATE `log_url_info`;
+ALTER TABLE `log_url_info` AUTO_INCREMENT=1;
+TRUNCATE `log_visitor`;
+ALTER TABLE `log_visitor` AUTO_INCREMENT=1;
+TRUNCATE `log_visitor_info`;
+ALTER TABLE `log_visitor_info` AUTO_INCREMENT=1;
+TRUNCATE `report_event`;
+ALTER TABLE `report_event` AUTO_INCREMENT=1;
