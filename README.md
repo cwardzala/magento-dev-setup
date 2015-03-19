@@ -1,7 +1,5 @@
-shop.playaway.com
-====================
-
-Ecommerce Redesign for shop.playaway.com
+# magento-dev-setup
+Magento local development setup
 
 ## Keywords
 Through out this document and the refrenced files, variables will be used to designate places where custom vaules will need to be entered to successfully setup the development environment. Any time you see a variable replace it with the correct value for your setup.
